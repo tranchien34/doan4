@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369580047969",
+    "firebase_url": "https://da4-trangquanchien-default-rtdb.firebaseio.com",
+    "project_id": "da4-trangquanchien",
+    "storage_bucket": "da4-trangquanchien.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369580047969:android:b4bbda9612b3fce1807420",
+        "android_client_info": {
+          "package_name": "com.example.da4_trangquangchien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369580047969-equ8d5un2r80pcflpuhrpd1n3lorlg51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9HB25F6mf6ZpbL7A96jqzh4sN6QsJgSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369580047969-equ8d5un2r80pcflpuhrpd1n3lorlg51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
